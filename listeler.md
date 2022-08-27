@@ -53,7 +53,7 @@
 
 ### Reverse Kullanımı ###
 + list = ["Elma","Armut"]   
-  +  list.extend("Şeftali") 
+  +  list.reverse("Şeftali") 
 
 [Output: ["Armut","Elma"]]()
 
@@ -61,7 +61,7 @@
 
 ### Sort Kullanımı ###
 + list = ["Elma","Armut"]   
-  +  list.sort() 
+  +  list.sort(reverse= True) 
 
 [Output: ["Armut","Elma"]]()
 
