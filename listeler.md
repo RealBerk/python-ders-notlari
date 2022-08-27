@@ -6,6 +6,10 @@
 * pop
 * reverse
 * sort ve sorted
+* min,max
+* sum
+* enumerate
+* join,split
 
 
 
@@ -66,3 +70,29 @@
 [Output: ["Armut","Elma"]]()
 
 > Sort Methodu / Fonksiyonu ile Listedeki Elemanları Alfabetik Olarak Sıralarsınız.
+
+
+### Min Kullanımı ###
++ list = [1,2,3,4,5,6,7,8,9,10]   
+  +  print(min(list)) 
+
+[Output: 1]()
+
+> Min Methodu Listedeki En Küçük Elemanı Seçer.
+
+
+### Max Kullanımı ###
++ list = [1,2,3,4,5,6,7,8,9,10]   
+  +  print(max(list))
+
+[Output: 10]()
+
+> Max Methodu Listedeki En Büyük Elemanı Seçer.
+
+### Sum Kullanımı ###
++ list = [1,2,3,4,5]   
+  +  print(sum(list))
+
+[Output: 15]()
+
+> Sum Methodu Listedeki Elemanların Toplamını Alır.
