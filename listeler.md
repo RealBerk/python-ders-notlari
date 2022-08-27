@@ -96,3 +96,12 @@
 [Output: 15]()
 
 > Sum Methodu Listedeki Elemanların Toplamını Alır.
+
+
+### Enumerate Kullanımı ###
++ list = [1,2,3,4,5]   
+  +  print(list(enumerate(a)))
+
+[Output: [(3, 1), (4, 2), (5, 3), (6, 4), (7, 5), (8, 6), (9, 7), (10, 8), (11, 9), (12, 10)]]()
+
+> Enumerate Fonksiyonu Bir Listeyi Numaralandırmaya Yarıyor.
