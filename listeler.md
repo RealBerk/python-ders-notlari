@@ -1,13 +1,13 @@
 # Listelerde Method Türleri
-* append
-* remove
-* insert
-* extend
-* pop
-* reverse
-* sort ve sorted
-* min,max
-* sum
+* [append](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#append-kullan%C4%B1m%C4%B1)
+* [remove](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#remove-kullan%C4%B1m%C4%B1)
+* [insert](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#i%CC%87nsert-kullan%C4%B1m%C4%B1)
+* [extend](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#extend-kullan%C4%B1m%C4%B1)
+* [pop](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#pop-kullan%C4%B1m%C4%B1)
+* [reverse](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#reverse-kullan%C4%B1m%C4%B1)
+* [sort](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#sort-kullan%C4%B1m%C4%B1)
+* [min,max](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#min-kullan%C4%B1m%C4%B1)
+* [sum](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#sum-kullan%C4%B1m%C4%B1)
 * enumerate
 * join,split
 
