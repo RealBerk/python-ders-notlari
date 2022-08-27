@@ -8,7 +8,7 @@
 * [sort](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#sort-kullan%C4%B1m%C4%B1)
 * [min,max](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#min-kullan%C4%B1m%C4%B1)
 * [sum](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#sum-kullan%C4%B1m%C4%B1)
-* enumerate
+* [enumerate](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#enumerate-kullan%C4%B1m%C4%B1)
 * join,split
 
 
