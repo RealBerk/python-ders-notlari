@@ -10,7 +10,7 @@
 * [sum](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#sum-kullan%C4%B1m%C4%B1)
 * [enumerate](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#enumerate-kullan%C4%B1m%C4%B1)
 * join,split
-* in
+* [in](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#i%CC%87n-kullan%C4%B1m%C4%B1)
 
 
 
