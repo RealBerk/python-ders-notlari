@@ -114,3 +114,12 @@
 [Output: True]()
 
 > İn, Bir elemanın listede olup olmadığını kontrol etmenize yarar.
+
+### Join Kullanımı ###
+_bir listeyi tek string haline getirmek istiyor isek eğer Join (bağlamak) Method/Fonksiyonunu kullanacağız.
++ list = ["Turuncu","Mor","Mavi"]   
+  +  list2 = "".join(list)
+_.join'den önceki " tırnaklar arasına ne girerseniz, listedeki elemanların arasına o yazılacaktır!
+[Output: TuruncuMorMavi]()
+
+> İn, Bir elemanın listede olup olmadığını kontrol etmenize yarar.
