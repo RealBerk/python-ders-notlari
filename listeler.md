@@ -122,4 +122,13 @@
 > .join'den önceki " tırnaklar arasına ne girerseniz, listedeki elemanların arasına o yazılacaktır!
 [Output: TuruncuMorMavi]()
 
-> İn, Bir elemanın listede olup olmadığını kontrol etmenize yarar.
+> Join Fonksiyonu, Bir Listedeki Elemanları Tek String Haline Getirmeye Yardımcı Olur.
+
+
+### Split Kullanımı ###
+> Bir stringi listeye dönüştürmek istiyor isek Split Methodunu kullanacağız.
++ list = "Turuncu-Mor-Mavi"  
+  +  list2 = list.split("-")
+> " arasındaki - sembolü bizim stringimizdeki elemanların arasında o sembol olduğu için yazdık, sizde ney olacaksa veya oysa onu yazın!
+[Output: ['Turuncu','Mor','Mavi']]()
+
