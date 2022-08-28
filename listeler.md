@@ -9,7 +9,7 @@
 * [min,max](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#min-kullan%C4%B1m%C4%B1)
 * [sum](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#sum-kullan%C4%B1m%C4%B1)
 * [enumerate](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#enumerate-kullan%C4%B1m%C4%B1)
-* join,split
+* [join,split](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#join-kullan%C4%B1m%C4%B1)
 * [in](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#i%CC%87n-kullan%C4%B1m%C4%B1)
 
 
@@ -116,10 +116,10 @@
 > İn, Bir elemanın listede olup olmadığını kontrol etmenize yarar.
 
 ### Join Kullanımı ###
-_bir listeyi tek string haline getirmek istiyor isek eğer Join (bağlamak) Method/Fonksiyonunu kullanacağız.
+> bir listeyi tek string haline getirmek istiyor isek eğer Join (bağlamak) Method/Fonksiyonunu kullanacağız.
 + list = ["Turuncu","Mor","Mavi"]   
   +  list2 = "".join(list)
-_.join'den önceki " tırnaklar arasına ne girerseniz, listedeki elemanların arasına o yazılacaktır!
+> .join'den önceki " tırnaklar arasına ne girerseniz, listedeki elemanların arasına o yazılacaktır!
 [Output: TuruncuMorMavi]()
 
 > İn, Bir elemanın listede olup olmadığını kontrol etmenize yarar.
