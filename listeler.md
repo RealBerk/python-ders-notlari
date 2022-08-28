@@ -10,6 +10,7 @@
 * [sum](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#sum-kullan%C4%B1m%C4%B1)
 * [enumerate](https://github.com/RealBerk/python-ders-notlar-/blob/main/listeler.md#enumerate-kullan%C4%B1m%C4%B1)
 * join,split
+* in
 
 
 
@@ -105,3 +106,11 @@
 [Output: [(3, 1), (4, 2), (5, 3), (6, 4), (7, 5), (8, 6), (9, 7), (10, 8), (11, 9), (12, 10)]]()
 
 > Enumerate Fonksiyonu Bir Listeyi Numaralandırmaya Yarıyor.
+
+### İn Kullanımı ###
++ list = [1,2,3,4,5]   
+  +  print(5 in list)
+
+[Output: True]()
+
+> İn, Bir elemanın listede olup olmadığını kontrol etmenize yarar.
